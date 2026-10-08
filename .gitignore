@@ -1,0 +1,15 @@
+# Dados pessoais gerados pelo programa
+despesas.csv
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
