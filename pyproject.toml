@@ -1,0 +1,8 @@
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+# E/W: estilo (PEP 8) | F: erros (variáveis não usadas etc.) | I: ordem dos imports
+# UP: sintaxe moderna do Python | B: armadilhas comuns
+select = ["E", "W", "F", "I", "UP", "B"]
