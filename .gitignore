@@ -1,10 +1,13 @@
 # Dados pessoais gerados pelo programa
 despesas.csv
+configuracoes.json
+relatorios/
 *.tmp
 
 # Python
 __pycache__/
 *.py[cod]
+.ruff_cache/
 .venv/
 venv/
 
